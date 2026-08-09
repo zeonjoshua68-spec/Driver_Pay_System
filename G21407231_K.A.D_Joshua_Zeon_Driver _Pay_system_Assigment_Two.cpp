@@ -1,10 +1,3 @@
-//Student name: Don Joshua Zeon
-//G num:G21407231
-//date: 06/06/2024
-// Module: Programming 
-//Driver pay system
-//Expected Band:62-68
-
 #include <iostream>
 #include <fstream>
 #include <vector>
